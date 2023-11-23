@@ -13,8 +13,8 @@ I'm a dedicated and enthusiastic Java developer with a strong foundation in data
 
 
 - 📫 How to reach me: **priyanka006sep@gmail.com**
+- - 📄 Know about my experiences [Read my CV](https://docs.google.com/document/d/1m9hILqA-HnlIwaaqV_jtI0gDI2IeexcGEW3Q0w0VODg/edit)
 
-## Current Focus 🎯
 
 
 Feel free to check out my repositories for the latest projects and updates on what I'm working on!
